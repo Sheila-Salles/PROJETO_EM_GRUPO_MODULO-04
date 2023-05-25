@@ -28,8 +28,9 @@ O contexto do projeto em questão tem como objetivo realizar uma análise detalh
 # Implementação 
 https://colab.research.google.com/drive/1aX3p1qYkLF_STY2_jMo2Ildjznwbxh5m?usp=sharing
 
-# Autoria 
-- Joice
-- Diego
-- Davi
-- Sheila
+# Autoria
+- (mailto:souzajoice296@gmail.com)
+- (mailto:isdavimoraes@outlook.com)
+- (mailto:sheilacsalles@hotmail.com)
+- (mailto:diegonietobr@gmail.com)
+
