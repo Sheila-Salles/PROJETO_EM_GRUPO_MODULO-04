@@ -32,5 +32,6 @@ https://colab.research.google.com/drive/1aX3p1qYkLF_STY2_jMo2Ildjznwbxh5m?usp=sh
 - (mailto:souzajoice296@gmail.com)
 - (mailto:isdavimoraes@outlook.com)
 - (mailto:sheilacsalles@hotmail.com)
-- (mailto:diegonietobr@gmail.com)
+- (victorrangelcorreia@gmail.com)
+- mailto:diegonietobr@gmail.com
 
