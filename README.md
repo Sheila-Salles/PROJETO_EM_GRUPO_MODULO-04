@@ -29,9 +29,9 @@ O contexto do projeto em questão tem como objetivo realizar uma análise detalh
 https://colab.research.google.com/drive/1aX3p1qYkLF_STY2_jMo2Ildjznwbxh5m?usp=sharing
 
 # Autoria
-- (mailto:souzajoice296@gmail.com)
-- (mailto:isdavimoraes@outlook.com)
-- (mailto:sheilacsalles@hotmail.com)
-- (victorrangelcorreia@gmail.com)
+- mailto:souzajoice296@gmail.com
+- mailto:isdavimoraes@outlook.com
+- mailto:sheilacsalles@hotmail.com
+- victorrangelcorreia@gmail.com
 - mailto:diegonietobr@gmail.com
 
